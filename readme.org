@@ -4,9 +4,11 @@ This is the code and evaluation files for our PSC paper; some of the Python code
 
 * Citation
 **** If you find our method useful, please kindly cite our paper.
+#+begin_example
 @inproceedings{zhu2024psc,
       title={PSC: Extending Context Window of Large Language Models via Phase Shift Calibration}, 
       author={Wenqiao Zhu and Chao Xu and Lulu Wang and Jun Wu},
       booktitle={EMNLP},
       year={2024}
 }
+#+end_example
